@@ -1,0 +1,19 @@
+#num1 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+#num2 {
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+button {
+  font-size: 20px;
+  width: 30px;
+  height: 30px;
+  color: #fff;
+  border: 1px solid #fff;
+  background-color: lime;
+}/*# sourceMappingURL=style.css.map */
